@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "universal-analytics": "^0.4.20"
+    "universal-analytics": "^0.5.3"
   }
 }
